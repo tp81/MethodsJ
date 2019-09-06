@@ -10,7 +10,8 @@ You need to install Fiji first, download it from fiji.sc/download and install it
 
 ```
 -----------------
-The data was acquired on a Zeiss microscope, using a 63.0x 1.4 NA objective. The pixel size is 0.21 microns. The step size is 0.24 microns. 
+The data was acquired on a Zeiss microscope, using a 63.0x 1.4 NA objective. The 
+pixel size is 0.21 microns. The step size is 0.24 microns. 
 -----------------
 ```
 
