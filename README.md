@@ -1,4 +1,4 @@
-# M&M Helper
+# MethodsJ
 Helps to write the material and methods section of a scientific article, by automatically generating a description of the imaging parameters.
 
 This little script will help you write the materials and methods section of your scientific article. It works by inspecting the metadata of an image acquired on a scientific microscope and generates some boilerplate text you can use in the paper. Make sure you double-check the text to make sure it is accurate. Note that for best accuracy, you need to point it to a file in the original microscope manufacturer's format, or one of the open OME file formats (OME-TIFF, OME-XML, ...).
