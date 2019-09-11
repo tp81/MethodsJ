@@ -21,10 +21,5 @@ The motivation for this work comes from a survey conducted at the [University of
 Feel free to send feedback to tpengo@umn.edu, or open an issue. For more information about the survey, contact marques@umn.edu and msanders@umn.edu.
 
 ## Author information
-````
-Thomas Pengo
-Director of Applications and Services
-University of Minnesota Informatics Institute
-University of Minnesota Twin Cities, Minneapolis, USA
-tpengo@umn.edu
-````
+[Thomas Pengo](mailto:tpengo@umn.edu), [University of Minnesota Informatics Institute](https://research.umn.edu/units/umii)
+
