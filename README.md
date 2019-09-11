@@ -10,8 +10,7 @@ You need to install Fiji first, download it from [fiji.sc/download](https://fiji
 
 ```
 -----------------
-The data was acquired on a Zeiss microscope, using a 63.0x 1.4 NA objective. The 
-pixel size is 0.21 microns. The step size is 0.24 microns. 
+The data was acquired on a Zeiss TIRF microscope, using a 100x 1.46 NA objective. The pixel size was 0.16 microns. The excitation and emission wavelengths for channel 1 were 587 nm and 610 nm and the exposure time was 30.0 ms. 
 -----------------
 ```
 
