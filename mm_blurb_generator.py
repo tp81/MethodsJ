@@ -135,7 +135,7 @@ def process(filename):
 	
 	# Pixel size
 	nimages = m.getImageCount()
-	logger.info("Found {} images".format(nimages))
+	logger.info("Found {} images".format(nimages))
 	
 	from ome.units import UNITS
 	
@@ -204,8 +204,12 @@ def process(filename):
 			et = "UNKNOWN"
 		else:
 			etms = et.value(UNITS.MILLISECOND)
-			print et
-			print etms
+
+			if "CZI" in ff: # TODO Check if error is across other images
+				logger.warn("The exposure time was divided by 1000 to account for ms mistaken as s in CZI files")
+				
+				etms = etms/1000
+				
 			if etms<1000:
 				et=str("{:.2f} ms".format(etms))
 			else:
