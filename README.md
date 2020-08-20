@@ -17,7 +17,7 @@ were 587 nm and 610 nm and the exposure time was 30.0 ms.
 ```
 
 ## Motivation
-The motivation for this work comes from a survey conducted at the [University of Minnesota Imaging Centers](http://uic.umn.edu) on published scientific articles that relied on imaging as a key component of their findings. The survey discovered that an extraordinary proportion of scientific publications lacked the necessary information in the material and methods to be able to reproduce the imaging experiment, despite the guidelines from the publisher. A manuscript is currently in preparation.
+The motivation for this work comes from a survey conducted at the [University of Minnesota Imaging Centers](http://uic.umn.edu) on published scientific articles that relied on imaging as a key component of their findings. The survey discovered that an extraordinary proportion of scientific publications lacked the necessary information in the material and methods to be able to reproduce the imaging experiment, despite the guidelines from the publisher. Please refer to our manuscript on [eLife](https://elifesciences.org/articles/55133).
 
 ## Feedback
 Feel free to send feedback to tpengo@umn.edu, or open an issue. For more information about the survey, contact marques@umn.edu and msanders@umn.edu.
